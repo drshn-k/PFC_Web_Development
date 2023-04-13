@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64372a61038560ffd874eccf"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Chicken Fried Rice"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd0"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Veg Fried Rice"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd1"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Fish Biryani"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd2"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Chicken Biryani"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd3"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Veg Biryani"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd4"
+  },
+  "CategoryName": "Biryani/Rice",
+  "name": "Prawns Fried Rice"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd5"
+  },
+  "CategoryName": "Starter",
+  "name": "Chilli Paneer"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd6"
+  },
+  "CategoryName": "Starter",
+  "name": "Paneer 65"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd7"
+  },
+  "CategoryName": "Starter",
+  "name": "Chicken Tikka"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd8"
+  },
+  "CategoryName": "Starter",
+  "name": "Paneer Tikka"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecd9"
+  },
+  "CategoryName": "Pizza",
+  "name": "Chicken Cheese Pizza"
+},{
+  "_id": {
+    "$oid": "64372a61038560ffd874ecda"
+  },
+  "CategoryName": "Pizza",
+  "name": "Mix Veg Pizza"
+}]
