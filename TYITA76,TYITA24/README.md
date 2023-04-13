@@ -1,68 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Pranit Das(TYITA24)
+Sayali Sable(TYITA76)
+Gayatri Kokare(TYITA58)
+ Develop a React E-commerce website using
+(A) Product screen
+(B) Product Details Screen
+(C) Shopping cart Screen
+III. Introduction
+Welcome to our online shopping website built using ReactJS! We are excited to offer you a seamless shopping experience with our intuive user interface and smooth navigaon. Our website is designed to provide you with a wide range of products, from clothing and accessories to home goods and electronics.
+Using ReactJS, we have created a dynamic plaorm that allows you to easily search for products, view detailed descripons and images, add items to your cart, and checkout securely. Our website is also opmized for mobile devices, so you can shop on-the-go with ease.
+We strive to provide our customers with the highest level of service and sasfacon, and our website is no excepon. Our responsive customer support team is always available to assist you with any quesons or concerns you may have.
+User Interface (UI): The UI is the first thing a user interacts with when they visit a website. It should be intuive and easy to navigate, with clear calls-to-acon for ordering food, tracking orders, and contacng customer support.
+Performance: A food delivery website should load quickly, even on slow internet connecons, to ensure a seamless user experience. The website should also be opmized for mobile devices, as many users will likely be ordering food on-the-go.
+Order Placement: The website should provide users with a simple and straighorward process for placing orders. It should allow users to select their desired dishes, customize their orders, and input their delivery address and payment details.
+Order Tracking: Once an order has been placed, users should be able to track its progress in real-me. The website should provide regular updates on the status of
+the order, including when it has been accepted, when it is being prepared, and when it is on its way for delivery.
