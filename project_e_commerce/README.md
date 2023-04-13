@@ -1,14 +1,9 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
-
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
-
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+Name: Shubham Santosh Gholave 
+Roll no: TYITA39 
+Ecommerce Website using React.js 
+AIM: The aim of an ecommerce website using React.js is to create a modern, responsive, and user-friendly online shopping experience that is secure, scalable, and engaging for customers. The website should have a seamless browsing and checkout process, high performance, easy 
+product catalog management, seamless third-party integrations, engaging user experience, and effective marketing features, all while being easily administrable and customizable to meet the needs of the business and provide maximum customer satisfaction. 
+Technologies used: React js , Stripe, JavaScript, Git, Json 
+React Js: React.js is a popular open-source JavaScript library that is widely used for building user interfaces in web applications. Developed and maintained by Facebook, React.js allows developers to create reusable UI components that can be combined together to build complex UIs efficiently. React.js follows a declarative approach, allowing developers to define the UI based on the desired outcome, rather than worrying about the imperative steps to achieve that outcome. This makes React.js highly efficient and easy to reason about. 
+One of the key features of React.js is its virtual DOM (Document Object Model), which is an in-memory representation of the actual DOM. React.js uses this virtual DOM to optimize the rendering process, minimizing the number of actual DOM manipulations needed, which results in improved performance. React.js also promotes a unidirectional data flow, where data flows from parent components to child components through props, making it easy to understand and debug complex UI interactions. React.js also has a large ecosystem of libraries, tools, and community support, making it a versatile technology for building modern web applications. Overall, React.js is a powerful and efficient technology that has gained widespread adoption among developers due to its performance, flexibility, and ease of use. 
+Conclusion: In conclusion, combining React.js and server-side scripts is a powerful approach for building an eCommerce website with integrated payment gateway functionality. React.js provides a dynamic and interactive user interface, while server-side scripts handle the processing of payment transactions securely. This combination allows for efficient rendering of UI components and seamless payment processing, enhancing the overall user experience. With React.js's extensive ecosystem of libraries and tools, along with server-side scripts in different programming languages, developers have the flexibility and versatility to implement a robust and reliable payment solution in their eCommerce applications.
